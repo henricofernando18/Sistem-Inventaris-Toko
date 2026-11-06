@@ -4,6 +4,32 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)](https://netbeans.apache.org/)
 
+
+
+
+
+
+
+## 📸 Tangkapan Layar Aplikasi
+
+### 1. Menu Utama
+![Menu Utama](screenshots/menu-utama.png)
+
+### 2. Form Transaksi
+![Form Transaksi](screenshots/form-transaksi.png)
+
+### 3. Form Barang & Supplier
+![Menu Barang](screenshots/menu-barang.png)
+![Menu Supplier](screenshots/menu-suppllier.png)
+
+### 4. Hasil Laporan PDF
+![Hasil PDF](screenshots/laporan-pdf.png)
+
+
+
+
+
+
 Aplikasi *desktop* manajemen inventaris toko berbasis **Java Swing** yang dirancang secara sistematis untuk mengelola operasional data harian secara terstruktur. Dikembangkan menggunakan **NetBeans IDE** dan database **MySQL**, aplikasi ini menerapkan arsitektur modular multi-form yang mencakup manajemen data master (*Supplier* dan *Barang*), pencatatan transaksi terstandarisasi, serta generator pelaporan otomatis berbasis **iText 5**.
 
 ---
