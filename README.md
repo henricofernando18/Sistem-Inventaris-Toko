@@ -2,7 +2,20 @@
 
 Aplikasi *desktop* manajemen inventaris toko berbasis **Java Swing** dan **MySQL** yang dikembangkan menggunakan **NetBeans IDE**. Aplikasi ini mengelola data master (Supplier & Barang), pencatatan transaksi terstandarisasi, serta generator laporan PDF otomatis menggunakan **iText 5**.
 
----
+## 📸 Tangkapan Layar Aplikasi
+
+### 1. Menu Utama
+![Menu Utama](screenshots/menu-utama.png)
+
+### 2. Form Transaksi
+![Form Transaksi](screenshots/form-transaksi.png)
+
+### 3. Form Barang & Supplier
+![Menu Barang](screenshots/menu-barang.png)
+![Menu Supplier](screenshots/menu-suppllier.png)
+
+### 4. Hasil Laporan PDF
+![Hasil PDF](screenshots/laporan-pdf.png)
 
 ## 🏗️ Modul & Fitur Utama
 1. **Koneksi Database (`Koneksi.java`)**: Jembatan penghubung JDBC antara Java Swing dan MySQL lokal XAMPP.
